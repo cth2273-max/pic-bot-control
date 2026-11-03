@@ -1,4 +1,4 @@
 {
-  "allow_run": true,
+  "allow_run": false,
   "message": "관리자에 의해 프로그램 사용이 중지되었습니다."
 }
